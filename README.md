@@ -1,4 +1,4 @@
-# social_meadia_app_masese
+# social_media_app_masese
 
 A new Flutter project.
 
